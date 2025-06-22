@@ -45,12 +45,9 @@ This project combines **AI, data science, and a beautiful UI** to improve how in
 
 ---
 
-## 📸 Screenshots
+## 📸 Video
 
-| Planner | Analytics | Reflection |
-|--------|-----------|------------|
-| ![](screenshots/plan_today.png) | ![](screenshots/analytics.png) | ![](screenshots/reflection.png) |
-
+https://www.loom.com/share/a4e0da074aa246039de3d54cc158e290?sid=a51901ef-29f4-4f30-b9b4-3078c8f67a4c 
 ---
 
 ## ⚙️ Installation
@@ -163,5 +160,5 @@ Want to improve this project?
 **Krisha Goti**  
 M.S. Applied Data Science, USC  
 📧 [goti@usc.edu](mailto:goti@usc.edu)  
-🌐 [linkedin.com/in/krishagoti](https://linkedin.com/in/krishagoti)
+🌐 [linkedin.com/in/krishagoti](https://www.linkedin.com/in/krisha-goti-2141bb180/)
 
