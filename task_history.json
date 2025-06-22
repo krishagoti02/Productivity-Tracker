@@ -1,0 +1,226 @@
+{
+  "2025-06-22": {
+    "date": "2025-06-22",
+    "energy": "High",
+    "input": [
+      "Submit project draft to mentor",
+      "Try a guided meditation (10 min)",
+      "Organize files on desktop",
+      "Cook a new recipe for dinner",
+      "Call a friend/family member"
+    ],
+    "manual_priorities": {
+      "high": [
+        "Try a guided meditation (10 min)"
+      ],
+      "medium": [
+        "Cook a new recipe for dinner"
+      ],
+      "low": []
+    },
+    "output": "### \ud83d\udcc5 Daily Plan for 2025-06-22\n**Energy Level:** High\n\n#### \ud83d\uddc2\ufe0f Task Overview\n| Task | Category | Priority | Time Estimate |\n|---|---|---|---|\n| Submit project draft to mentor | Work | High (\ud83d\udd34) | 45 mins |\n| Try a guided meditation (10 min) | Health | Medium (\ud83d\udfe1) | 15 mins |\n| Organize files on desktop | Administrative | Low | 30 mins |\n| Cook a new recipe for dinner | Personal | Low | 60 mins |\n| Call a friend/family member | Personal | Low | 15 mins |\n\n\n#### \u23f3 Time-Blocked Schedule\n**Morning (High Energy)**\n- 8:00-8:45: Submit project draft to mentor (Work) (Priority: \ud83d\udd34)\n- 8:45-9:00: Buffer Time (Use for checking emails or a quick break)\n- 9:00-9:15: Try a guided meditation (10 min) (Health) (Priority: \ud83d\udfe1)\n\n**Afternoon**\n- 12:00-12:30: Organize files on desktop (Administrative) (Priority: \u26aa)\n- 12:30-1:30: Cook a new recipe for dinner (Personal) (Priority: \u26aa)\n- 1:30-1:45: Call a friend/family member (Personal) (Priority: \u26aa)\n\n\n#### \ud83d\udca1 Productivity Tips\n1. **Prioritize Deep Work:** Tackle the high-priority project submission first thing in the morning when your energy levels are highest. This ensures it gets your focused attention.\n2. **Mindful Breaks:** The buffer time between tasks allows for a mental reset and prevents burnout. Use this short break to stand up, stretch, or grab a drink.\n3. **Batch Similar Tasks:** Grouping similar activities like organizing files and cooking together minimizes context switching and maximizes efficiency.  This approach prevents mental fatigue from jumping between vastly different tasks.\n"
+  },
+  "2025-06-23": {
+    "date": "2025-06-23",
+    "energy": "Low",
+    "input": [
+      "Attend online workshop/webinar",
+      "Solve 2 LeetCode problems",
+      "Water your plants",
+      "Watch 1 episode of a documentary",
+      "Write one paragraph of journal"
+    ],
+    "manual_priorities": {
+      "high": [],
+      "medium": [
+        "Solve 2 LeetCode problems"
+      ],
+      "low": [
+        "Write one paragraph of journal",
+        "Attend online workshop/webinar"
+      ]
+    },
+    "output": "### \ud83d\udcc5 Daily Plan for 2025-06-23\n**Energy Level:** Low\n\n#### \ud83d\uddc2\ufe0f Task Overview\n| Task | Category | Priority | Time Estimate |\n|------|----------|----------|---------------|\n| Attend online workshop/webinar | Learning | Medium | 60 mins |\n| Solve 2 LeetCode problems | Learning | Low | 45 mins |\n| Water your plants | Health | Low | 15 mins |\n| Watch 1 episode of a documentary | Personal | Low | 30 mins |\n| Write one paragraph of journal | Personal | Low | 15 mins |\n\n\n#### \u23f3 Time-Blocked Schedule\n**Morning (High Energy)**\n\n- **8:00-8:15:** Water your plants (Health) (Priority: \u26aa) *Includes 5 min buffer*\n- **8:15-9:15:** Write one paragraph of journal (Personal) (Priority: \u26aa)  *Includes 5 min buffer*\n- **9:15-9:30:**  Buffer/Break (Optional coffee/short walk)\n\n\n**Afternoon (Lower Energy)**\n\n- **1:00-2:00:** Attend online workshop/webinar (Learning) (Priority: \ud83d\udfe1) *Includes 5 min buffer*\n- **2:00-2:45:** Solve 2 LeetCode problems (Learning) (Priority: \u26aa) *Includes 15 min buffer*\n- **2:45-3:15:** Watch 1 episode of a documentary (Personal) (Priority: \u26aa)\n\n\n#### \ud83d\udca1 Productivity Tips\n\n1. **Prioritize Easy Wins:** Starting your day with the quick and easy task of watering plants helps build momentum even on a low-energy day.  This boosts your sense of accomplishment before tackling more demanding activities.\n\n2. **Short & Frequent Breaks:** The buffer times included are crucial when energy is low. Use these breaks to stretch, walk around, or simply rest your eyes to avoid burnout.  Don't feel obligated to fill every minute.\n\n3. **Timeboxing is Key:**  Sticking to the allocated time for each task prevents you from getting bogged down and helps maintain focus when your energy is limited.  If you find yourself struggling, stop and take a break, rather than pushing through.\n"
+  },
+  "2025-06-24": {
+    "date": "2025-06-24",
+    "energy": "Low",
+    "input": [
+      "Review and summarize yesterday\u2019s lecture",
+      "Stretch for 5 minutes after waking up",
+      "Delete unnecessary email",
+      "Research a new hobby you want to try",
+      "Back up data from your phone"
+    ],
+    "manual_priorities": {
+      "high": [
+        "Review and summarize yesterday\u2019s lecture",
+        "Stretch for 5 minutes after waking up",
+        "Delete unnecessary email"
+      ],
+      "medium": [],
+      "low": []
+    },
+    "output": "### \ud83d\udcc5 Daily Plan for 2025-06-24\n**Energy Level:** Low\n\n#### \ud83d\uddc2\ufe0f Task Overview\n| Task | Category | Priority | Time Estimate |\n|------|----------|----------|---------------|\n| Review and summarize yesterday\u2019s lecture | Learning | \ud83d\udd34 High | 45 mins |\n| Stretch for 5 minutes after waking up | Health | \ud83d\udfe1 Medium | 5 mins |\n| Delete unnecessary email | Admin | \ud83d\udfe1 Medium | 15 mins |\n| Research a new hobby you want to try | Personal | \ud83d\udd34 High | 30 mins |\n| Back up data from your phone | Admin | \ud83d\udd34 High | 15 mins |\n\n\n#### \u23f3 Time-Blocked Schedule\n**Morning (High Energy)**\n\n- **8:00-8:05:** Wake up, Stretch for 5 minutes (Health) (Priority: \ud83d\udfe1) -  Start with an easy task to gently ease into the day.\n- **8:05-8:10:**  Buffer:  Quick hydration and light breakfast.\n- **8:10-8:55:** Review and summarize yesterday\u2019s lecture (Learning) (Priority: \ud83d\udd34) \u2013 Tackle the most demanding task while energy is higher.\n- **8:55-9:00:** Buffer: Quick break - stand up, walk around.\n\n\n**Afternoon (Lower Energy)**\n\n- **1:00-1:15:** Delete unnecessary emails (Admin) (Priority: \ud83d\udfe1) -  A shorter, less mentally demanding task.\n- **1:15-1:45:** Research a new hobby you want to try (Personal) (Priority: \ud83d\udd34) \u2013  Another high-priority task, but broken down into manageable chunks.\n- **1:45-2:00:** Back up data from your phone (Admin) (Priority: \ud83d\udd34) \u2013 Relatively short, but important task.\n\n\n#### \ud83d\udca1 Productivity Tips\n\n1. **Prioritize Breaks:**  The buffer times are crucial.  Even short breaks prevent burnout when your energy is low.  Don't skip them!\n2. **Timeboxing is Key:**  Sticking to the allocated time for each task, even if you don't complete it fully, helps you maintain momentum and avoid feeling overwhelmed.  You can always revisit tasks tomorrow.\n3. **Single-tasking:** Focus solely on one task at a time during your working periods to improve concentration and minimize distractions, especially when energy levels are low.  Multitasking is less efficient in these situations.\n"
+  },
+  "2025-06-25": {
+    "date": "2025-06-25",
+    "energy": "Low",
+    "input": [
+      "Study for 1 hour distraction-free",
+      "Create or update your resume",
+      "Do a 10-minute YouTube workout",
+      "Try making a digital vision board",
+      "Read one blog/article on a favorite topic"
+    ],
+    "manual_priorities": {
+      "high": [],
+      "medium": [
+        "Do a 10-minute YouTube workout",
+        "Create or update your resume"
+      ],
+      "low": []
+    },
+    "output": "### \ud83d\udcc5 Daily Plan for 2025-06-25\n**Energy Level:** Low\n\n#### \ud83d\uddc2\ufe0f Task Overview\n| Task | Category | Priority | Time Estimate |\n|------|----------|----------|---------------|\n| Study for 1 hour distraction-free | Learning | Medium | 60 mins |\n| Create or update your resume | Work | Medium | 45 mins |\n| Do a 10-minute YouTube workout | Health | Low | 10 mins |\n| Try making a digital vision board | Personal | Low | 30 mins |\n| Read one blog/article on a favorite topic | Personal | Low | 15 mins |\n\n\n#### \u23f3 Time-Blocked Schedule\n**Morning (High Energy)**  *(Since energy is low, we'll focus on easier tasks initially)*\n\n- 9:00-9:10: Do a 10-minute YouTube workout (Health) (Priority: \ud83d\udfe1 - Adjusted to reflect easier task first)\n- 9:10-9:25: Read one blog/article on a favorite topic (Personal) (Priority: \ud83d\udfe1 - Adjusted to reflect easier task first)\n- 9:25-9:35:  Buffer (Relax, grab a drink)\n\n**Mid-day (Moderate Energy)**\n\n- 9:35-10:35:  Study for 1 hour distraction-free (Learning) (Priority: \ud83d\udfe1)\n\n- 10:35-10:50: Buffer (Short break, stretch)\n\n**Afternoon (Lower Energy)**\n\n- 10:50 -11:35: Create or update your resume (Work) (Priority: \ud83d\udfe1)\n- 11:35-12:05: Try making a digital vision board (Personal) (Priority: \ud83d\udfe2 -  Lower priority, scheduled for later in the day)\n\n\n#### \ud83d\udca1 Productivity Tips\n\n1. **Prioritize Breaks:**  Given your low energy, short, frequent breaks are crucial. The buffer times are essential; don't skip them. Use them to stretch, hydrate, or simply step away from your workspace.\n2. **Timeboxing is Key:**  Sticking to the allocated time for each task will prevent burnout. If a task takes longer than expected, adjust the schedule for the following day, rather than pushing yourself beyond your current energy levels.  Don't aim for perfection, aim for progress.\n3. **Minimize Distractions:** For the study session, utilize website blockers or put your phone in another room to maximize focus and efficiency.  The same applies to resume creation as it requires concentration.\n"
+  },
+  "2025-06-27": {
+    "date": "2025-06-27",
+    "energy": "Low",
+    "input": [
+      "Write and send a networking email",
+      "Practice a hobby for 30 minutes",
+      "Go for a walk and take 5 photos of nature",
+      "Schedule a doctor or dentist appointment",
+      "Reflect on your week with 3 wins and 1 challenge"
+    ],
+    "manual_priorities": {
+      "high": [],
+      "medium": [],
+      "low": []
+    },
+    "output": "### \ud83d\udcc5 Daily Plan for 2025-06-27\n**Energy Level:** Low\n\n#### \ud83d\uddc2\ufe0f Task Overview\n| Task | Category | Priority | Time Estimate |\n|---|---|---|---|\n| Write and send a networking email | Work | Low | 15 mins |\n| Practice a hobby for 30 minutes | Personal | Low | 30 mins |\n| Go for a walk and take 5 photos of nature | Health | Low | 45 mins |\n| Schedule a doctor or dentist appointment | Health | Low | 15 mins |\n| Reflect on your week with 3 wins and 1 challenge | Personal | Low | 15 mins |\n\n\n#### \u23f3 Time-Blocked Schedule\n**Morning (High Energy -  Even on a low energy day, mornings often offer a slight boost)**\n- 9:00-9:15: Schedule a doctor or dentist appointment (Health) (Priority: \ud83d\udfe1) *Start with a quick, manageable task to build momentum.*\n- 9:15-9:45: Write and send a networking email (Work) (Priority: \ud83d\udfe1) *Email requires focus, but is shorter than other tasks.*\n- 9:45-10:15:  Reflect on your week with 3 wins and 1 challenge (Personal) (Priority: \ud83d\udfe2) *Low-energy task requiring minimal effort.*\n- 10:15-10:45:  Practice a hobby for 30 minutes (Personal) (Priority: \ud83d\udfe2)\n\n\n**Afternoon (Lower Energy)**\n- 1:00-1:45: Go for a walk and take 5 photos of nature (Health) (Priority: \ud83d\udfe2)  *This is best suited for a lower energy period, allowing for a slower pace and mindful appreciation of nature.*\n\n\n#### \ud83d\udca1 Productivity Tips\n1. **Prioritize short, easy wins:** Starting with small, achievable tasks like scheduling the appointment helps build momentum and combats feelings of overwhelm, even on low-energy days.\n2. **Incorporate movement:** The afternoon walk is strategically placed to help combat potential afternoon slump and improve energy levels.  Break up sitting periods with short stretches if needed.\n3. **Embrace imperfection:** Since your energy is low, focus on completing the tasks rather than striving for perfection.  A shorter, less polished email is better than no email at all.  Similarly, a brief reflection is sufficient.\n"
+  },
+  "2025-06-28": {
+    "date": "2025-06-28",
+    "energy": "Low",
+    "input": [
+      "Do mock interview questions",
+      "Spend 20 minutes learning a new tool (e.g., Excel, Canva)",
+      "Organize one folder of study materials",
+      "Prep tomorrow\u2019s outfit & to-do list",
+      "Make a Spotify playlist for focus"
+    ],
+    "manual_priorities": {
+      "high": [
+        "Spend 20 minutes learning a new tool (e.g., Excel, Canva)",
+        "Organize one folder of study materials",
+        "Prep tomorrow\u2019s outfit & to-do list"
+      ],
+      "medium": [],
+      "low": []
+    },
+    "output": "### \ud83d\udcc5 Daily Plan for 2025-06-28\n**Energy Level:** Low\n\n#### \ud83d\uddc2\ufe0f Task Overview\n| Task | Category | Priority | Time Estimate |\n|---|---|---|---|\n| Do mock interview questions | Work | \ud83d\udd34 High | 60 mins |\n| Spend 20 minutes learning a new tool (e.g., Excel, Canva) | Learning | \ud83d\udd34 High | 20 mins |\n| Organize one folder of study materials | Work | \ud83d\udd34 High | 30 mins |\n| Prep tomorrow\u2019s outfit & to-do list | Personal | \ud83d\udfe1 Medium | 15 mins |\n| Make a Spotify playlist for focus | Personal | \ud83d\udfe1 Medium | 15 mins |\n\n\n#### \u23f3 Time-Blocked Schedule\n**Morning (High Energy)**  *(Note:  Given the low energy level, we'll front-load the most demanding tasks and break them into smaller chunks.)*\n\n- 8:00-8:30:  Do mock interview questions (Part 1) [Work] (Priority: \ud83d\udd34)\n- 8:30-8:50:  Spend 20 minutes learning a new tool (e.g., Excel, Canva) [Learning] (Priority: \ud83d\udd34)\n- 8:50-9:00: Break/Short walk (5-10 mins) + Prepare a caffeinated beverage (5-10 mins)\n\n**Mid-Morning/Early Afternoon (Sustaining Energy)**\n\n- 9:00-9:30: Do mock interview questions (Part 2) [Work] (Priority: \ud83d\udd34)\n- 9:30-10:00: Organize one folder of study materials [Work] (Priority: \ud83d\udd34)\n\n**Afternoon (Lower Energy)**\n\n- 10:00-10:15: Prep tomorrow\u2019s outfit & to-do list [Personal] (Priority: \ud83d\udfe1)\n- 10:15-10:30: Make a Spotify playlist for focus [Personal] (Priority: \ud83d\udfe1)\n\n\n#### \ud83d\udca1 Productivity Tips\n\n1. **Prioritize Breaks:**  Schedule short breaks (5-10 minutes) between tasks to avoid burnout. Step away from your workspace, stretch, or grab a drink.  The break after the mock interview questions is particularly crucial given their demanding nature.\n2. **Timeboxing & Chunking:** Dividing the interview prep and study material organization into smaller time-blocked segments prevents overwhelm, and is better suited to a low-energy day. This makes the tasks more manageable.\n3. **Embrace Imperfection:** Given your low energy, aim for progress, not perfection.  If you don't finish organizing the entire folder, that's okay.  Focus on making meaningful headway.\n"
+  },
+  "2025-06-29": {
+    "date": "2025-06-29",
+    "energy": "Medium",
+    "input": [
+      "Revise notes from previous topics",
+      "Help someone with a small task",
+      "Practice gratitude (write 3 things)",
+      "Create a Pomodoro-style work session",
+      "Bake or cook something from scratch"
+    ],
+    "manual_priorities": {
+      "high": [
+        "Revise notes from previous topics"
+      ],
+      "medium": [
+        "Practice gratitude (write 3 things)"
+      ],
+      "low": [
+        "Help someone with a small task",
+        "Create a Pomodoro-style work session",
+        "Bake or cook something from scratch"
+      ]
+    },
+    "output": "### \ud83d\udcc5 Daily Plan for 2025-06-29\n**Energy Level:** Medium\n\n#### \ud83d\uddc2\ufe0f Task Overview\n| Task | Category | Priority | Time Estimate |\n|------|----------|----------|---------------|\n| Revise notes from previous topics | Learning | Medium | 45 mins |\n| Help someone with a small task | Personal | Low | 15 mins |\n| Practice gratitude (write 3 things) | Personal | Low | 10 mins |\n| Create a Pomodoro-style work session (25 mins work, 5 mins break x 2) | Work | High | 60 mins |\n| Bake or cook something from scratch | Personal | Low | 60 mins |\n\n\n#### \u23f3 Time-Blocked Schedule\n**Morning (High Energy)**\n- 8:00-8:45: Create a Pomodoro-style work session (Priority: \ud83d\udd34 High)  *(Includes two 25-minute work sessions with 5-minute breaks)*\n- 8:45-9:00:  Practice gratitude (write 3 things) (Priority: \ud83d\udfe2 Low) *Small task to maintain momentum*\n- 9:00-9:15: Help someone with a small task (Priority: \ud83d\udfe2 Low) *Short, easy task before energy dip*\n\n**Afternoon (Medium Energy)**\n- 1:00-1:45: Revise notes from previous topics (Priority: \ud83d\udfe1 Medium) *Longer task placed during medium energy period.*\n- 1:45-2:45: Bake or cook something from scratch (Priority: \ud83d\udfe2 Low) *Relaxing activity, good for sustaining focus.*\n\n#### \ud83d\udca1 Productivity Tips\n1. **Prioritize Breaks:** Schedule short breaks between tasks to avoid burnout.  The built-in breaks in your Pomodoro session are excellent; continue this pattern throughout the day.\n2. **Minimize Distractions:**  During your Pomodoro sessions and note revision, find a quiet space free from interruptions to maximize concentration and efficiency.  Put your phone on silent.\n3. **Review and Adjust:** At the end of the day, briefly review your schedule and note what worked well and what could be improved for tomorrow's planning. This iterative process enhances productivity.\n"
+  },
+  "2025-06-20": {
+    "date": "2025-06-20",
+    "energy": "Medium",
+    "input": [
+      "Assigment",
+      "Bath",
+      "Shift",
+      "Laundry",
+      "Classes"
+    ],
+    "manual_priorities": {
+      "high": [
+        "Shift",
+        "Assigment"
+      ],
+      "medium": [
+        "Bath"
+      ],
+      "low": [
+        "Laundry"
+      ]
+    },
+    "output": "### \ud83d\udcc5 Daily Plan for 2025-06-20\n**Energy Level:** Medium\n\n#### \ud83d\uddc2\ufe0f Task Overview\n| Task       | Category    | Priority | Time Estimate |\n|------------|-------------|----------|---------------|\n| Assignment | Learning    | \ud83d\udd34       | 60 mins       |\n| Shift      | Work        | \ud83d\udd34       | 60 mins       |\n| Classes    | Learning    | \ud83d\udfe1       | 45 mins       |\n| Laundry    | Personal    | \ud83d\udfe2       | 30 mins       |\n| Bath       | Health      | \ud83d\udfe2       | 15 mins       |\n\n\n#### \u23f3 Time-Blocked Schedule\n**Morning (High Energy)**\n- 8:00-9:00: Assignment (Learning) (Priority: \ud83d\udd34)\n- 9:00-9:15: Buffer Time (Prepare for next task/quick snack)\n- 9:15-10:15: Shift (Work) (Priority: \ud83d\udd34)\n\n\n**Afternoon (Medium Energy)**\n- 10:15-11:00: Classes (Learning) (Priority: \ud83d\udfe1)\n- 11:00-11:30: Laundry (Personal) (Priority: \ud83d\udfe2)\n- 11:30-11:45: Bath (Health) (Priority: \ud83d\udfe2)\n\n\n**Evening**\n- Flexible time slot for relaxation and unwinding.\n\n\n#### \ud83d\udca1 Productivity Tips\n1. **Prioritize Breaks:**  The buffer time between your high-energy tasks is crucial. Use it to grab a quick, healthy snack or step away from your workspace to clear your head, ensuring you maintain focus throughout the day.\n2. **Timeboxing is Key:** Sticking to the estimated times for each task will help you stay on track and avoid getting bogged down.  If you consistently finish tasks early, you can reward yourself with a few extra minutes of downtime.\n3. **Batch Similar Tasks:**  Grouping similar activities (like the Learning tasks in the morning) helps maintain momentum and reduces mental switching costs.  This maximizes your energy levels during peak times.\n"
+  },
+  "2025-06-21": {
+    "date": "2025-06-21",
+    "energy": "Medium",
+    "input": [
+      "Laundry",
+      "Bath",
+      "Classes"
+    ],
+    "manual_priorities": {
+      "high": [],
+      "medium": [],
+      "low": []
+    },
+    "output": ""
+  },
+  "2025-07-01": {
+    "date": "2025-07-01",
+    "energy": "Medium",
+    "input": [
+      "Complete Project",
+      "Do yoga",
+      "Go to gym",
+      "Research work",
+      "Resume build"
+    ],
+    "manual_priorities": {
+      "high": [
+        "Research work",
+        "Resume build"
+      ],
+      "medium": [
+        "Do yoga"
+      ],
+      "low": [
+        "Go to gym"
+      ]
+    },
+    "output": "### \ud83d\udcc5 Daily Plan for 2025-07-01\n**Energy Level:** Medium\n\n#### \ud83d\uddc2\ufe0f Task Overview\n| Task             | Category   | Priority | Time Estimate |\n|-----------------|------------|----------|---------------|\n| Complete Project | Work       | \ud83d\udd34       | 60 mins        |\n| Research work    | Work       | \ud83d\udfe1       | 45 mins        |\n| Resume build     | Personal   | \ud83d\udfe1       | 30 mins        |\n| Do yoga          | Health     | \ud83d\udfe2       | 30 mins        |\n| Go to gym       | Health     | \ud83d\udfe2       | 60 mins        |\n\n\n#### \u23f3 Time-Blocked Schedule\n**Morning (High Energy)**\n- 8:00-8:30: Do Yoga (Health) (Priority: \ud83d\udfe2)  *(Starting with a lower-energy task to ease into the day)*\n- 8:30-9:00:  Buffer Time *(Allows for flexibility and mental transition)*\n- 9:00-10:00: Complete Project (Work) (Priority: \ud83d\udd34) *(Tackling the most important work task while energy is high)*\n- 10:00-10:45: Research work (Work) (Priority: \ud83d\udfe1)\n\n\n**Afternoon (Medium Energy)**\n- 11:00-11:30: Resume build (Personal) (Priority: \ud83d\udfe1) *(Shorter, less demanding task)*\n- 11:30-12:30: Go to Gym (Health) (Priority: \ud83d\udfe2) *(Scheduling the gym in the afternoon when energy levels may dip slightly)*\n- 12:30-13:00: Buffer Time/Lunch\n\n\n#### \ud83d\udca1 Productivity Tips\n1. **Prioritize Breaks:** The buffer times are crucial. Use them to stretch, grab a healthy snack, or simply clear your head to maintain focus and prevent burnout.\n2. **Timeboxing is Key:**  Sticking to your allocated time for each task will help you stay on track and avoid getting bogged down.  If a task takes longer, reassess its scope for the next day.\n3. **Mindful Transitions:** Before switching tasks, take a few deep breaths to mentally detach from the previous activity and focus on the next. This will increase efficiency and reduce mental fatigue.\n"
+  },
+  "2025-07-02": {
+    "date": "2025-07-02",
+    "energy": "High",
+    "input": [
+      "Resume build",
+      "Complete Project"
+    ],
+    "manual_priorities": {
+      "high": [],
+      "medium": [],
+      "low": []
+    },
+    "output": ""
+  }
+}
